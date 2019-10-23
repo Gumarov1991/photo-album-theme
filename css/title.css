@@ -1,0 +1,182 @@
+@keyframes hand_writing {
+    100% {
+        stroke-dashoffset: 0;
+        stroke: #fff;
+    }
+}
+
+
+svg polyline, svg line, svg polygon, svg path {
+    stroke-dasharray: 500;
+    stroke-dashoffset: 500;
+}
+
+#a-3 {
+    stroke-width: 15;
+    animation: hand_writing .3s linear forwards 1s;
+}
+
+#l {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 1.1s;
+}
+
+#b {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 1.3s;
+}
+
+#e {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 1.4s;
+}
+
+
+#r-2 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 1.5s;
+}
+
+#t1-2 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 1.6s;
+}
+
+#t2-2 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 1.7s;
+}
+
+#a-2 {
+    stroke-width: 15;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: hand_writing .5s linear forwards 1.8s;
+}
+
+#a2 {
+    stroke-width: 15;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: hand_writing .5s linear forwards 1.9s;
+}
+
+#n {
+    stroke-width: 10;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: hand_writing .5s linear forwards 2s;
+}
+
+#d {
+    stroke-width: 15;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: hand_writing .5s linear forwards 2.2s;
+}
+
+#d2 {
+    stroke-width: 10;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: hand_writing .5s linear forwards 2.3s;
+}
+
+#v {
+    stroke-width: 15;
+    stroke-dasharray: 600;
+    stroke-dashoffset: 600;
+    animation: hand_writing .5s linear forwards 2.5s;
+}
+
+#i-2 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 2.8s;
+}
+
+#i2-2 {
+    stroke-width: 30;
+    animation: hand_writing .5s linear forwards 2.9s;
+}
+
+#t1 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 3s;
+}
+
+#t2 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 3.1s;
+}
+
+#o {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.2s;
+}
+
+#r {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.3s;
+}
+
+#r1 {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.4s;
+}
+
+#i2 {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.5s;
+}
+
+#i {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.6s;
+}
+
+#y {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.7s;
+}
+
+#y1 {
+    stroke-width: 15;
+    animation: hand_writing .5s linear forwards 3.8s;
+}
+
+#a {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 3.9s;
+}
+
+#a1 {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 4s;
+}
+
+#left {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 4.4s;
+}
+
+#right {
+    stroke-width: 10;
+    animation: hand_writing .5s linear forwards 4.8s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

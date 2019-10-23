@@ -1,0 +1,58 @@
+/* lato-300 - latin_cyrillic */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('Lato Light'), local('Lato-Light'),
+    url('../fonts/lato-light.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('../fonts/lato-light.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lato-regular - latin_cyrillic */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Lato Regular'), local('Lato-Regular'),
+    url('../fonts/lato-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('../fonts/lato-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lato-500 - latin_cyrillic */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Lato Medium'), local('Lato-Medium'),
+    url('../fonts/lato-medium.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('../fonts/lato-medium.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lato-600 - latin_cyrillic */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('Lato SemiBold'), local('Lato-SemiBold'),
+    url('../fonts/lato-semibold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('../fonts/lato-semibold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lato-700 - latin_cyrillic */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Lato Bold'), local('Lato-Bold'),
+    url('../fonts/lato-bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('../fonts/lato-bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+    font-family: 'Good Vibes Pro';
+    src: local('Good Vibes Pro'), local('GoodVibesPro'),
+    url('../fonts/GoodVibesPro.woff') format('woff'),
+    url('../fonts/GoodVibesPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
